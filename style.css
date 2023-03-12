@@ -1,0 +1,11 @@
+body {
+    background: #3646d1;
+    text-align: center;
+}
+#my-game {
+    /* optional */
+    width: 800px;
+    height: 600px;
+    margin: 0 auto;
+    border: 1px solid black;
+}
